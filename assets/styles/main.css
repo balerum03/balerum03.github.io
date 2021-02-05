@@ -231,6 +231,14 @@ li p {
     .project_pic {
       width: 75%;
     }
+
+    .glass_bg {
+      width: 98%;
+    }
+
+    .projects {
+      width: 95%;
+    }
 }
 
 @media screen and (max-width: 720px) {
